@@ -1,0 +1,10 @@
+﻿  SUPRAN_F_K_INDIVIDUAL.cpp
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL.cpp(18,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL.cpp(19,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL.cpp(38,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL.cpp(56,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL.cpp(58,34): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL.cpp(86,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL.cpp(91,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL\SUPRAN_F_K_INDIVIDUAL.cpp(98,26): warning C4018: <: несоответствие типов со знаком и без знака
+  SUPRAN_F_K_INDIVIDUAL.vcxproj -> D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_INDIVIDUAL\Debug\SUPRAN_F_K_INDIVIDUAL.exe
